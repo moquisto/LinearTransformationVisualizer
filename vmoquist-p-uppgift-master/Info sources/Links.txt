@@ -1,0 +1,2 @@
+https://www.scratchapixel.com/lessons/3d-basic-rendering/perspective-and-orthographic-projection-matrix/projection-matrix-introduction.html
+This explains perspective and orthographic projection. Pretty good site for explaining the maths behind computer graphics https://www.scratchapixel.com/index.html
