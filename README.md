@@ -1,2 +1,2 @@
 # README
-Det här projektet är från en kurs i programmering från KTH tagen under höstterminen 2023, mer information om projektet finns i mappen.
+This project was for a course in programming at KTH taken during the autumn of 2023.
